@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **GameInfo**
 
-- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **Web development**
 
